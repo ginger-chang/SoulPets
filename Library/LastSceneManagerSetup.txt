@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/VRBootcamp/Scenes/MainDemo_UnityXRISample.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
